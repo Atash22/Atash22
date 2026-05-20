@@ -7,7 +7,7 @@
 - 🎓 Applied AI Solutions Development @ George Brown College (2026)
 - 🤖 Passionate about **Generative AI** — LLMs, RAG systems & AI agents
 - 🔭 Building NLP pipelines, recommender systems & GenAI applications
-- 🌱 Currently learning: LangChain · Hugging Face Transformers · RAG · Prompt Engineering
+- 🔭 Building with: LangChain · HuggingFace Transformers · RAG pipelines
 - 💡 Goal: Build production-ready GenAI applications that solve real problems
 - 👯 Open to co-op / internship in GenAI, ML, NLP, or Data Science
 - 📍 Based in Toronto, ON — open to remote
