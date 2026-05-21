@@ -9,7 +9,7 @@
 - 🔭 Building NLP pipelines, recommender systems & GenAI applications
 - 🔭 Building with: LangChain · HuggingFace Transformers · RAG pipelines
 - 💡 Goal: Build production-ready GenAI applications that solve real problems
-- 👯 Open to co-op / internship in GenAI, ML, NLP, or Data Science
+- 👯 Open to co-op / internship in GenAI, ML, NLP, or AI Developer
 - 📍 Based in Toronto, ON — open to remote
 - 📫 Connect with me: [LinkedIn](https://linkedin.com/in/atageldi-kakabayev)
 
